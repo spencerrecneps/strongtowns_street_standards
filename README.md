@@ -48,7 +48,8 @@ those investments. A low value development should not receive the same level of
 investment as a development that adds significant wealth to the community.
 
 This document features design guidelines for the following development
-typologies, which are described in more detail further on:  
+typologies, which are described in more detail further on:
+
 * Rural and large-lot residential
 * Single family homes and duplexes
 * Missing middle
@@ -61,9 +62,11 @@ Most cities use a classification system to establish a hierarchy of streets.
 Engineers and planners refer to this as _functional classification_. The
 traditional functional classification scheme separates streets into three major
 groups, listed in order of importance:  
+
 * Arterials
 * Collectors
-* Locals  
+* Locals
+
 Many communities further subdivide these categories.
 
 Note that these classifications are designed to emphasize the hierarchy related
@@ -78,7 +81,8 @@ poorly adapted to complex urban environments. It also degrades the value of
 surrounding real estate, undermining the very purpose for which a street exists.
 
 This guide establishes standards for three types of street, which are described
-in more detail in subsequent sections:  
+in more detail in subsequent sections:
+
 * Connectors
 * Thru-ways
 * Boulevards
